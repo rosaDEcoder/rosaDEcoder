@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosaDEcoder
+- 👋 Hi, I’m @Bharosha
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on this platform
